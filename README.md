@@ -1,4 +1,5 @@
 # ch55xduino_uc1701_lcd9648
+based on ch55xduino(https://github.com/DeqingSun/ch55xduino)
 drive lcd9648(uc1701) at ch55xduino with ch552
 ![IMG_20230614_220541](https://github.com/coinight/ch55xduino_uc1701_lcd9648/assets/32589807/fb3fba39-7ddd-47a2-96c2-3046b09a2cd4)
 test on ch552 board
